@@ -1,0 +1,4 @@
+rootProject.name = 'cj-rmi'
+include 'rmi-client'
+include 'rmi-server'
+
